@@ -1,10 +1,10 @@
 # HDCS2023_Programming ASSIGNMENT 2 - SpaceInvaders
-##INTRODUCTION
+## INTRODUCTION
 This is your second assignment that will contribute to your grade for the semester. It is worth 35% of your overall grade.
 
 The objective is to demonstrate your growing coding knowledge particularly in the area of classes, objects, arrays, loops, mouse/key event handling.
 
-##SHORT DESCRIPTION
+## SHORT DESCRIPTION
 You are asked to write a game which meets the brief detailed later. It must include:
 
 collision detection or collision avoidance between at least 2 objects. The objects are created from class files that you create and define (similar to Paddle and Ball in the game of Pong that we studied).
@@ -28,10 +28,10 @@ Display in whatever fashion you wish the high scores table at the end of each ga
 
 Do not include tournament facilities (as per Pong)
 
-##WARNING
+## WARNING
 We don't need them, but if you include sounds, fonts or graphics files, you must ensure they are all included properly otherwise your code won't run.
 
-##NO
+## NO
 This specification rules OUT games based on:
 
 cards,
@@ -46,7 +46,7 @@ driving
 navigation (customised: pac man, frogger)
 shoot em ups (customised: asteroids, invaders, galaxians)
 
-##ATTENTION
+## ATTENTION
 All parts of this assignment document make up the specification. Please pay attention to the details:
 
 The Brief: What is expected from your code.
